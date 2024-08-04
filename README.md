@@ -1,5 +1,5 @@
 # 📊 Previsão de Estoque Inteligente 
-[🎯Click para Ver.](VideoGrafico.mp4)
+[🎯Click para Ver.](https://github.com/Ronaldoestudante/lab-aws-sagemaker-canvas-estoque/blob/main/Video%20controle%20de%20estoque.mp4)
 
 ## 🎯 Objetivos Deste Desafio de Projeto (Lab)
 
