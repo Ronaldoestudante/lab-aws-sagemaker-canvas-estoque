@@ -1,5 +1,5 @@
 # 📊 Previsão de Estoque Inteligente 
-()
+[🎯Click para Ver.](VideoGrafico.mp4)
 
 ## 🎯 Objetivos Deste Desafio de Projeto (Lab)
 
